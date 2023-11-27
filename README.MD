@@ -8,6 +8,11 @@
 
 <img src="Calculadora_imc.png" alt="calculadora imc"/>
 
+
+## Demo
+Confira a demonstração ao vivo [aqui](https://devdiegolima.github.io/Projeto_calculadora_imc//).
+
+
 ## Como usar
 
 <ol>
